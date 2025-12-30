@@ -41,7 +41,8 @@ To better understand the characteristics of EEG signals across different categor
 ### 🔹 Amplitude Distribution Across EEG Categories
 The histogram below illustrates the amplitude distribution for different EEG sets, highlighting variations between normal, interictal, and seizure signals.
 
-![Amplitude Distribution](images/amplitude_distribution.png)
+<img width="1790" height="1025" alt="aptitude_distribution" src="https://github.com/user-attachments/assets/ea4441c6-7f37-4099-91d5-44d148a26ad0" />
+
 
 ---
 
