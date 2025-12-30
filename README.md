@@ -57,7 +57,8 @@ Representative EEG signal samples from each category are visualized to observe t
 ### 🔹 Original vs Processed EEG Signals
 This comparison shows the effect of preprocessing techniques applied to raw EEG signals, demonstrating noise reduction and signal smoothing.
 
-![EEG Signal Processing](images/signal_preprocessing.png)
+<img width="1489" height="1190" alt="eeg_signal_processing" src="https://github.com/user-attachments/assets/9fe70ff7-a4a1-44b4-b4f9-819077997399" />
+
 
 ---
 
