@@ -49,7 +49,8 @@ The histogram below illustrates the amplitude distribution for different EEG set
 ### 🔹 Sample EEG Signals
 Representative EEG signal samples from each category are visualized to observe temporal patterns and signal variability.
 
-![Sample EEG Signals](images/eeg_samples.png)
+<img width="1789" height="1229" alt="sample" src="https://github.com/user-attachments/assets/6d787d15-ba3f-4e82-af50-ceacfc5c67dc" />
+
 
 ---
 
